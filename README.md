@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Pierwszy commit. Testuje sobie XD
